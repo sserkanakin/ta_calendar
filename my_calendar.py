@@ -6,7 +6,7 @@ from pytz import timezone
 
 app = Flask(__name__)
 
-calendar_route = '/Users/serkan/Downloads/module3_ta_schedule.xlsx'
+calendar_route = '/module3_ta_schedule.xlsx'
 local_tz = timezone('Europe/Amsterdam')
 
 # get from file on computer
@@ -59,4 +59,4 @@ def localize_time(date, time):
 if __name__ == '__main__':
     app.run(debug=True)
 
-    
+
