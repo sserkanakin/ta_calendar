@@ -1,21 +1,12 @@
 arrow==1.3.0
 attrs==23.2.0
 click @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/click_1699237822453/work
-et-xmlfile==1.1.0
 Flask @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b4a2svwk0s/croot/flask_1702980026964/work
 ics==0.7.2
-itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
-Jinja2 @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jinja2_1707339916030/work
-MarkupSafe @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/markupsafe_1707339878470/work
 numpy==1.26.4
 openpyxl==3.1.2
 pandas==2.2.0
 python-dateutil==2.8.2
 pytz==2024.1
-setuptools==68.2.2
-six==1.16.0
-TatSu==5.11.3
-types-python-dateutil==2.8.19.20240106
 tzdata==2024.1
-Werkzeug @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_94_079eho7/croot/werkzeug_1706210081645/work
 wheel==0.41.2
